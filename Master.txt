@@ -1,5 +1,5 @@
 
-<Version: 1.01>
-/data/Map001.json https://raw.githubusercontent.com/Geko-Pizza/Prueba/main/Map001.json
-/img/characters/Evil.png https://raw.githubusercontent.com/Geko-Pizza/Prueba/main/Evil.png
+<Version: 2.00>
+/data/Map001.json https://raw.githubusercontent.com/Geko-Pizza/UpdateForProyect/main/Map001.json
+/img/characters/Evil.png https://raw.githubusercontent.com/Geko-Pizza/UpdateForProyect/main/Evil.png
 <End of Version>
